@@ -1,4 +1,4 @@
-# CloudShield AI / DAIL — Resource 3: Technical Architecture & Implementation Plan
+# CloudSpartanX / DAIL — Resource 3: Technical Architecture & Implementation Plan
 
 **Version:** 1.0  
 **Status:** Final Phase 6 technical baseline  
