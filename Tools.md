@@ -14,4 +14,4 @@
 | Product planning             | ChatGPT                | Claude           |
 | Architecture                 | ChatGPT                | Claude           |
 | Large code review            | Claude                 | ChatGPT          |
-| Final project decisions      | **ChatGPT + evidence** | —                |
+| Final project decisions      | **ChatGPT + evidence** | —                | 
